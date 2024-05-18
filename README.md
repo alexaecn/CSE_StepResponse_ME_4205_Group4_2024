@@ -10,4 +10,7 @@
 ![437729479_479364354416056_8603220114222455018_n](https://github.com/alexaecn/CSE_StepResponse_ME_4205_Group4_2024/assets/159103176/05ce17b3-2b71-4dc7-880c-8562277e64df)
 ![440808936_969062217995248_3819952637950681282_n](https://github.com/alexaecn/CSE_StepResponse_ME_4205_Group4_2024/assets/159103176/7263da98-0344-4978-808e-4cb61353f97f)
 ![440853266_852157700080105_8537353884003488963_n](https://github.com/alexaecn/CSE_StepResponse_ME_4205_Group4_2024/assets/159103176/26731bb3-ef60-4dc2-8458-85cc286f0631)
-
+![Nonlinear_System_Approx](https://github.com/alexaecn/CSE_StepResponse_ME_4205_Group4_2024/assets/158744734/aa1dd428-c2eb-4705-b1c8-1a9f40b49852)
+![Plant_with_Time_Delay](https://github.com/alexaecn/CSE_StepResponse_ME_4205_Group4_2024/assets/158744734/3e4a4fa6-f872-4aa7-807b-79f62ed8f9fe)
+![441941555_421125554187290_7254008930858942415_n](https://github.com/alexaecn/CSE_StepResponse_ME_4205_Group4_2024/assets/158744734/e2914314-8e00-49a2-aa64-57967de4ac1c)
+![438245659_1413516042680637_3136244441106183563_n](https://github.com/alexaecn/CSE_StepResponse_ME_4205_Group4_2024/assets/158744734/fbb9911a-b9d5-4569-9e5b-b6de10e35e66)
